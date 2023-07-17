@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
     <div className="navbar">
        
-        <h2 className="navbar_title">Tickets</h2>
+        <h2 className="navbar_title">Overview</h2>
         
         <div className="navbar_right">
             <img className="search" src={Search} alt="Search" />
